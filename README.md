@@ -2,5 +2,4 @@
 
 - 🔭 I’m currently working on designing a website for Rasai as part of the S Club 7 team.
 - 🌱 I’m currently learning C#
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm from Wisconsin, USA. I've lived in New Zealand for 12 years.
