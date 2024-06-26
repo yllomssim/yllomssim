@@ -1,4 +1,5 @@
 Hi there 👋 My name is Molly!
+
 🔭 I’m currently an IT student at Wintec in Hamilton, New Zealand, with a focus on Software Engineering.
 
 🌱 I’m diving into the world of C# and loving every bit of it.
