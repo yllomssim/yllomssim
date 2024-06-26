@@ -8,4 +8,4 @@ Hi there 👋 My name is Molly!
 
 🌍 Originally from Wisconsin, USA, I've been enjoying the Kiwi life in New Zealand for the past 12 years.
 
-🌿 I love to work the right side of my brain with crafts, puzzles, and exploring nature.
+🌿 I love to work the right side of my brain with crafts, games, and exploring nature.
