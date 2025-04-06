@@ -2,9 +2,7 @@ Hi there 👋 My name is Molly!
 
 🔭 I’m currently an IT student at Wintec in Hamilton, New Zealand, with a focus on Software Engineering.
 
-💻 I'm curious about what it takes to become a full-stack developer, exploring both front-end and back-end technologies.
-
-🛠️ My tech toolbox includes Java, C#, Python, MySQL, .NET MAUI, Vue.js, and Office 365.
+🛠️ My tech toolbox includes Java, C#, Python, Godot, MySQL, .NET MAUI, Vue.js and more.
 
 🌍 Originally from Wisconsin, USA, I've been enjoying the Kiwi life in New Zealand for the past 12 years.
 
